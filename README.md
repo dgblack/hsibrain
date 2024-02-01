@@ -14,3 +14,4 @@ Endmembers.csv: The endmember spectra (columns 2 to 10) and the corresponding wa
 Unmixing_Paper.pdf: The paper, also available at arxiv.org
 
 Please consider citing if useful:
+David Black, Benoit Liquet, Sadahiro Kaneko, Antonio Di leva, Walter Stummer, Eric Suero Molina. A Spectral Library and Method for Sparse Unmixing of Hyperspectral Images in Fluorescence Guided Resection of Brain Tumors. ArXiv, Jan 30, 2024. https://arxiv.org/abs/2401.17388
