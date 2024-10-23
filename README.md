@@ -11,7 +11,7 @@
 
 Code: Includes MATLAB code for unmixing and generation of simulated spectra  
 Endmembers.csv: The endmember spectra (columns 2 to 10) and the corresponding wavelengths in nm (column 1)  
-Unmixing_Paper.pdf: The paper, also available at arxiv.org
+Unmixing_Paper.pdf: The paper, also available at the link below
 
 Please consider citing if useful:
 David Black, Benoit Liquet, Sadahiro Kaneko, Antonio Di leva, Walter Stummer, Eric Suero Molina. A Spectral Library and Method for Sparse Unmixing of Hyperspectral Images in Fluorescence Guided Resection of Brain Tumors. Biomedical Optics Express, 15(8), pp. 4406-4424, 2024. [DOI: 10.1364/BOE.528535](https://doi.org/10.1364/BOE.528535)
